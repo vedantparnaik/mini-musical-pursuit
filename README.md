@@ -1,1 +1,1 @@
-# mini-musical-pursuit
+# musical-pursuit
